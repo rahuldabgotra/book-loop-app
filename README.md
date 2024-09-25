@@ -127,7 +127,3 @@ We welcome contributions to improve the application or add new features.
 ## License
 
 This project is licensed under the Apache License 2.0 - see the [LICENSE](LICENSE) file for details.
-
----
-
-This README is clear and structured, offering a step-by-step guide for installation, usage, and contribution, making it easy for users and contributors to engage with the project. Let me know if you need additional adjustments!
